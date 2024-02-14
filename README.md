@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ravindra Singh
+- 👋 Hi, I’m @Liboster
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning HTML or CSS,Javascript...
-- 📫 How to reach me libostergamer@gmail.com...
+- 🌱 I’m currently learning HTML or CSS,Javascript..
 
 <!---
 libostergamer/libostergamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
